@@ -9,7 +9,8 @@ This Tableau project focuses on:
 ● Customer Insights: Understanding customer distribution by region, category, and purchasing behavior.
 ● Visual Storytelling: Creating interactive dashboards that provide actionable insights.
 
-<img width="1201" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/870acd7b-9ac6-4a75-bfd6-7f0e24a17ea5" />
+<img width="1207" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/404d44c5-1d23-428c-83f6-d184905d7050" />
+
 
 <img width="1200" alt="Customer Dashboard" src="https://github.com/user-attachments/assets/ce590d5c-ff94-4955-90a5-531bf920ba41" />
 
